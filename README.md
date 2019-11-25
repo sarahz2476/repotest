@@ -1,9 +1,9 @@
-to make a repo:
-1. go to github-learning
-2. then make a repo
-3. initilize the repo
+To make a repo:
+1. go to github-learning using cd
+2. then make a repo (mkdir)
+3. initilize the repo (git init)
 4. go into the repo using cd
-5. make a README file
+5. make a README file (touch)
 6. open it using c9
 7. type whatever you need into the file
 8. then git add the file (make sure whatever changes are made in the file is saved)
