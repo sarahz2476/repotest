@@ -13,5 +13,5 @@ To make a repo:
 12. it will show u a link with three different section
 13. make sure the link is in ssh form
 14. then copy the code in the second section into your ide
-15. from now on every change you make you need to git add, git commit, and use git push to make sure the changes are saved in the github repository
+15. for every change you make you need to git add, git commit, and use git push to make sure the changes are saved in the github repository
 16. the end.
