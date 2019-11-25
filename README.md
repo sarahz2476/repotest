@@ -7,7 +7,7 @@ To make a repo:
 6. open it using c9
 7. type whatever you need into the file
 8. then git add the file (make sure whatever changes are made in the file is saved)
-9. then you git commit
+9. then you git commit (remeber to put in a message)
 10. then u login to ur github
 11. make a new repository
 12. it will show u a link with three different section
